@@ -1,3 +1,7 @@
+**This project is now maintained at https://github.com/iver56/fast-align-audio**
+
+---
+
 Stupid but fast "brute force" method of finding best alignment offset of two
 NumPy arrays. Useful if you have two similar (but not identical) arrays where
 one of the arrays "lags behind" the other and you want to align them.
